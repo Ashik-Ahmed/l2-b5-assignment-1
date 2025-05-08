@@ -1,6 +1,6 @@
 # 1. TypeScript Interfaces vs. Types: What's the Difference? 🤔
 
-If you've worked with TypeScript, you've probably used both `interface` and `type` and noticed they seem... suspiciously similar. Let's break down how they're different in a way that actually makes sense.
+If you've worked with TypeScript, you've probably used both `interface` and `type` and noticed they seem suspiciously similar. Let's break down how they're different 
 
 ---
 
